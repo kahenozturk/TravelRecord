@@ -1,0 +1,14 @@
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\bin\Debug\netcoreapp3.1\CSharpSection.exe
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\bin\Debug\netcoreapp3.1\CSharpSection.deps.json
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\bin\Debug\netcoreapp3.1\CSharpSection.runtimeconfig.json
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\bin\Debug\netcoreapp3.1\CSharpSection.runtimeconfig.dev.json
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\bin\Debug\netcoreapp3.1\CSharpSection.dll
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\bin\Debug\netcoreapp3.1\CSharpSection.pdb
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\obj\Debug\netcoreapp3.1\CSharpSection.csproj.AssemblyReference.cache
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\obj\Debug\netcoreapp3.1\CSharpSection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\obj\Debug\netcoreapp3.1\CSharpSection.AssemblyInfoInputs.cache
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\obj\Debug\netcoreapp3.1\CSharpSection.AssemblyInfo.cs
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\obj\Debug\netcoreapp3.1\CSharpSection.csproj.CoreCompileInputs.cache
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\obj\Debug\netcoreapp3.1\CSharpSection.dll
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\obj\Debug\netcoreapp3.1\CSharpSection.pdb
+C:\Users\KahenOzturk\Desktop\Xamarin.Forms Course\CSharpSection\CSharpSection\obj\Debug\netcoreapp3.1\CSharpSection.genruntimeconfig.cache
